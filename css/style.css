@@ -215,7 +215,7 @@ img{
   text-align: center;
   color: #fff;
   padding: 100px 0;
-  background-image: url(../images/beer.jpg); 
+  background-image: url(../images/bg-search.jpg); 
   background-size: auto;
   background-position: center;
   background-attachment: fixed; 
@@ -225,11 +225,12 @@ img{
 .search-box h1{
   font-size: 37px;
   font-weight: bold;
-  color: #0ae90afa
+  color: rgb(3, 182, 137);
 
 }
 .search-box .tagline{
   font-size: 26px;
+  color: rgb(3, 182, 137);
 
 }
 .search-box form{
